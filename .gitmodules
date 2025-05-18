@@ -1,0 +1,9 @@
+[submodule "fdf"]
+	path = fdf
+	url = git@github.com:FabianRapp/fdf.git
+[submodule "miniRT"]
+	path = miniRT
+	url = git@github.com:FabianRapp/miniRT.git
+[submodule "cub3D"]
+	path = cub3D
+	url = git@github.com:FabianRapp/cub3D.git
