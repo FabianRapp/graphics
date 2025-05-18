@@ -17,9 +17,12 @@ As part of the 42 core curriculum, students choose between miniRT (raytracing) a
 - A variety of **material types** (metal, glass, water)
 - **Pixel buffer export** functionality to `.ppm` image files
 
-This project was built entirely from scratch, using only a minimal custom image library to render pixel buffers directly. Having just completed cub3D, I understood the importance of linear algebra and dedicated significant time to mastering its concepts. That became the most valuable takeaway from miniRT.
+This project was built entirely from scratch, using only a minimal grapgics library to render pixel buffers directly. Having worked on cub3D, I understood the importance of linear algebra and dedicated significant time to mastering its concepts. That became the most valuable takeaway from miniRT.
 
-> *(Images will be added soon)*
+![](images/miniRT/first_smooth_shadow_high_res.png)
+![](images/miniRT/ocean1.png)
+![](images/miniRT/refraction_in_glass_air_spheres.png)
+![](images/miniRT/spotlight.png)
 
 ---
 
@@ -31,11 +34,11 @@ Initially part of the 42 curriculum, cub3D was intended to be a basic raycasting
 
 - Implementation of an **.obj file parser** with support for `.mtl` files and textures
 - A full **CPU-based rendering pipeline** with custom projection and triangle rasterization
-- Experimentation with **lighting techniques** and various **shading models**
+- Experimentation with **lighting techniques**
 
 Although unfinished and containing known bugs, this project was a critical learning experience and helped solidify my foundation in graphics programming.
 
-![laptop](cub3D/Screenshots/laptop.png)
+![](images/cub3D/laptop.png)
 
 ---
 
@@ -49,8 +52,8 @@ The `fdf` project, another 42 core curriculum assignment, was my introduction to
 - **3D camera movement**
 - Object loading from a custom file format
 
-![landscape](fdf/screenshots/landscape.png)  
-![julia set](fdf/screenshots/julia.png)  
-![pylone](fdf/screenshots/pylone.png)  
-![42](fdf/screenshots/42.png)
-[42](fdf/screenshots/42.png)
+![](images/fdf/landscape.png)
+![ set](images/fdf/julia.png)
+![](images/fdf/pylone.png)
+![](images/fdf/42.png)
+[](images/fdf/42.png)
