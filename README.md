@@ -26,9 +26,9 @@ This project was built entirely from scratch, using only a minimal grapgics libr
 
 ---
 
-## 🟡 cub3D: From Simple Raycaster to Full 3D Renderer
+## 🟡 Software Rasterizer: From Simple Raycaster to Full 3D Renderer
 
-Initially part of the 42 curriculum, cub3D was intended to be a basic raycasting game. However, I found raycasting too limiting and began exploring full 3D rendering, significantly expanding the scope.
+Initially part of the 42 curriculum as the project cub3D this was intended to be a basic raycasting game. However, I found raycasting too limiting and began exploring full 3D rendering, significantly expanding the scope.
 
 ### 🧪 Enhancements
 
