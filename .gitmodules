@@ -7,3 +7,6 @@
 [submodule "cub3D"]
 	path = cub3D
 	url = git@github.com:FabianRapp/cub3D.git
+[submodule "Software-rasterizer"]
+	path = Software-rasterizer
+	url = https://github.com/FabianRapp/Software-rasterizer.git

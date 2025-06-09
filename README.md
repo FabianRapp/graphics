@@ -56,4 +56,3 @@ The `fdf` project, another 42 core curriculum assignment, was my introduction to
 ![ set](images/fdf/julia.png)
 ![](images/fdf/pylone.png)
 ![](images/fdf/42.png)
-[](images/fdf/42.png)
